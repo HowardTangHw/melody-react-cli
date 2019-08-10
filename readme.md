@@ -1,5 +1,4 @@
 # Melody-react-cli
 
-## useage
-
+## Getting Started
 > npx melody-react-cli myapp [...create-react-app option][--mobx]
