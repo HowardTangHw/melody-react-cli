@@ -21,7 +21,7 @@
     "melody-react-cli": "./index.js"
   },
   "dependencies": {
-    "chalk": "2.4.2",
+    "chalk": "3.0.0",
     "cross-spawn": "7.0.1",
     "commander": "4.0.1",
     "envinfo": "7.4.0",
